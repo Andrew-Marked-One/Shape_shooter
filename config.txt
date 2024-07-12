@@ -1,0 +1,6 @@
+Window 1600 900 60 0
+Font MarckScript_Regular.ttf 35 32 32 32
+Player 32 32 5 5 5 5 255 0 0 4 8
+Enemy 32 32 3 5 0 0 0 2 3 8 90 60
+Byllet 10 10 10 64 64 64 255 51 51 2 20 90
+Background background.jpg
