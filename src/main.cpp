@@ -3,10 +3,7 @@
 #include "classes.h"
 
 int main(){
-    Game g("config.txt");
-    //copy
-    //copy
-    //copy
-    //copy
+    Game g("resources/config.txt");
     g.run();
+    return 0;
 }
